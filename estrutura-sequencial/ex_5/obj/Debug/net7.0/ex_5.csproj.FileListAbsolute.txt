@@ -1,0 +1,15 @@
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_5\obj\Debug\net7.0\ex_5.csproj.AssemblyReference.cache
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_5\obj\Debug\net7.0\ex_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_5\obj\Debug\net7.0\ex_5.AssemblyInfoInputs.cache
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_5\obj\Debug\net7.0\ex_5.AssemblyInfo.cs
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_5\obj\Debug\net7.0\ex_5.csproj.CoreCompileInputs.cache
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_5\bin\Debug\net7.0\ex_5.exe
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_5\bin\Debug\net7.0\ex_5.deps.json
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_5\bin\Debug\net7.0\ex_5.runtimeconfig.json
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_5\bin\Debug\net7.0\ex_5.dll
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_5\bin\Debug\net7.0\ex_5.pdb
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_5\obj\Debug\net7.0\ex_5.dll
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_5\obj\Debug\net7.0\refint\ex_5.dll
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_5\obj\Debug\net7.0\ex_5.pdb
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_5\obj\Debug\net7.0\ex_5.genruntimeconfig.cache
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_5\obj\Debug\net7.0\ref\ex_5.dll
