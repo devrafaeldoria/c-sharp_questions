@@ -1,0 +1,15 @@
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_4\obj\Debug\net7.0\ex_4.csproj.AssemblyReference.cache
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_4\obj\Debug\net7.0\ex_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_4\obj\Debug\net7.0\ex_4.AssemblyInfoInputs.cache
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_4\obj\Debug\net7.0\ex_4.AssemblyInfo.cs
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_4\obj\Debug\net7.0\ex_4.csproj.CoreCompileInputs.cache
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_4\bin\Debug\net7.0\ex_4.exe
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_4\bin\Debug\net7.0\ex_4.deps.json
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_4\bin\Debug\net7.0\ex_4.runtimeconfig.json
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_4\bin\Debug\net7.0\ex_4.dll
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_4\bin\Debug\net7.0\ex_4.pdb
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_4\obj\Debug\net7.0\ex_4.dll
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_4\obj\Debug\net7.0\refint\ex_4.dll
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_4\obj\Debug\net7.0\ex_4.pdb
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_4\obj\Debug\net7.0\ex_4.genruntimeconfig.cache
+C:\programação\c#\curso\udemy\exercicios\estrutura-sequencial\ex_4\obj\Debug\net7.0\ref\ex_4.dll
