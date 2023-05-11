@@ -1,0 +1,15 @@
+C:\programação\c#\curso\udemy\exercicios\estrutura-while\ex_2\bin\Debug\net7.0\ex_2.exe
+C:\programação\c#\curso\udemy\exercicios\estrutura-while\ex_2\bin\Debug\net7.0\ex_2.deps.json
+C:\programação\c#\curso\udemy\exercicios\estrutura-while\ex_2\bin\Debug\net7.0\ex_2.runtimeconfig.json
+C:\programação\c#\curso\udemy\exercicios\estrutura-while\ex_2\bin\Debug\net7.0\ex_2.dll
+C:\programação\c#\curso\udemy\exercicios\estrutura-while\ex_2\bin\Debug\net7.0\ex_2.pdb
+C:\programação\c#\curso\udemy\exercicios\estrutura-while\ex_2\obj\Debug\net7.0\ex_2.csproj.AssemblyReference.cache
+C:\programação\c#\curso\udemy\exercicios\estrutura-while\ex_2\obj\Debug\net7.0\ex_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\programação\c#\curso\udemy\exercicios\estrutura-while\ex_2\obj\Debug\net7.0\ex_2.AssemblyInfoInputs.cache
+C:\programação\c#\curso\udemy\exercicios\estrutura-while\ex_2\obj\Debug\net7.0\ex_2.AssemblyInfo.cs
+C:\programação\c#\curso\udemy\exercicios\estrutura-while\ex_2\obj\Debug\net7.0\ex_2.csproj.CoreCompileInputs.cache
+C:\programação\c#\curso\udemy\exercicios\estrutura-while\ex_2\obj\Debug\net7.0\ex_2.dll
+C:\programação\c#\curso\udemy\exercicios\estrutura-while\ex_2\obj\Debug\net7.0\refint\ex_2.dll
+C:\programação\c#\curso\udemy\exercicios\estrutura-while\ex_2\obj\Debug\net7.0\ex_2.pdb
+C:\programação\c#\curso\udemy\exercicios\estrutura-while\ex_2\obj\Debug\net7.0\ex_2.genruntimeconfig.cache
+C:\programação\c#\curso\udemy\exercicios\estrutura-while\ex_2\obj\Debug\net7.0\ref\ex_2.dll
